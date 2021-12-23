@@ -57825,6 +57825,17 @@
         "philanthropy-token",
         "change-the-world"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "BsS6MEq7ZkdcggeAoiafi1XgNbqXDULi44FLLLJ6fGPv",
+      "symbol": "MWC",
+      "name": "MoonWar Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ColinAA/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
